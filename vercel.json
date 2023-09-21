@@ -1,8 +1,6 @@
 {
     "version":"1",
-    "bulid": [{
-        "src":"app.js",
-     "use":"@now/node"}],
+   
 
 
     "routes" :[{
